@@ -1,3 +1,7 @@
+---
+layout: post
+title: Introduction
+---
 
 # About Me
 
